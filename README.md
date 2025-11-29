@@ -31,6 +31,8 @@ EMAIL_ORIGEM=seu_email_aqui
 EMAIL_DESTINO=seu_email_aqui
 PASSWORD=sua_senha_aqui
 
+---
+
 ## 🚀 Como funciona (teoria)
 
 1. Captura das teclas digitadas.
